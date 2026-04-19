@@ -6,6 +6,10 @@ class Demo
       int x=10;
       System.out.println(x);
       System.out.println("hello world");
+        System.out.println("ram);
+      int x=10;
+      System.out.println(x);
+      System.out.println("hello world");
     }
   }
   

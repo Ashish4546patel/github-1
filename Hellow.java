@@ -10,6 +10,9 @@ class Demo
       int x=10;
       System.out.println(x);
       System.out.println("hello world");
+      System.out.println("dekhte raho");
+      System.out.println("ashish");
+      System.out.println("Patel");
     }
   }
   
